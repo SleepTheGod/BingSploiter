@@ -1,0 +1,1 @@
+pip install requests beautifulsoup4 googlesearch-python fake_useragent --break-system-packages
